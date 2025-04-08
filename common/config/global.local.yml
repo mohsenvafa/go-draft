@@ -1,0 +1,3 @@
+client_id: "shared-id"
+client_secret: "shared-secret"
+api_url: "https://shared.api.com"

@@ -1,0 +1,2 @@
+client_id: "service-id"  # override shared
+schema_path: "./graph/schema.graphqls"
